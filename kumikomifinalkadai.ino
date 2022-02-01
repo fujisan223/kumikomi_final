@@ -5,8 +5,8 @@
 #define numberOfLEDs 60 //Quantity of RGB LEDs
 #define controlPin 23
 
-const char* ssid     = "ｱｲﾊﾟｯｮ";
-const char* password = "fujisan223";
+const char* ssid     = "your ssid";
+const char* password = "your password";
 
 static const int servoPin1 = 2;
 static const int servoPin2 = 4;
